@@ -1,0 +1,14 @@
+<persons>
+      <element>
+         <gender>male</gender>
+         <name>Jeff Bezos</name>
+      </element>
+      <element>
+         <gender>male</gender>
+         <name>Elon Musk</name>
+      </element>
+      <element>
+         <gender>female</gender>
+         <name>Jessica Alba</name>
+      </element>
+</persons>
